@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2020ee1a-e106-48bb-8e48-e3464a4ec27e" name="rasp">
+        <fileTransfer rootFolder="/home/pi/IDEA" accessType="SFTP" host="192.168.1.89" port="22" sshConfigId="add06e26-babc-47af-abfc-d855a912c384" sshConfig="pi@192.168.1.89:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
